@@ -1,0 +1,86 @@
+[
+  {
+    "titulo": "O museum do Amanhã",
+    "id": 1,
+    "src": "https://museudoamanha.org.br/sites/default/files/Visite_1280x800_MdA-BernardLessa__1456509569_189.60.197.72.jpg",
+    "lugar": "O museum do Amanhã",
+    "lat": -22.89437,
+    "lng":  -43.1796800,
+    "descricao": "O Museu do Amanhã é um museu inaugurado em 17 de dezembro de 2015 por Dilma Rousseff. Localizado no Rio de Janeiro, às margens da Baía de Guanabara, o prédio que o abriga foi projetado pelo arquiteto Santiago Calatrava Valls. É dedicado à criação do Universo e ao futuro da humanidade.",
+    "datas": [
+      "2022-03-30",
+      "2022-04-04"
+    ],
+    "ingressos": "Ingressos disponíveis online ou no local."
+  },
+  {
+    "titulo": "Orquestra Sinfônica Brasileira",
+    "id": 2,
+    "src": "https://ogimg.infoglobo.com.br/in/20171863-620-e53/FT1086A/652/2016-900023562-2016-899674435-13257216344_f7fe7b4063_o.jpg_20160331.jpg_2016.jpg",
+    "lugar": "Theatro Municipal do Rio de Janeiro",
+    "lat": -22.9090481,
+    "lng": -43.17655750000001,
+    "descricao": "A criação da OSB foi iniciativa de três professores da Escola Nacional de Música - Djalma Soares, Antão Soares e Antônio Leopardi. Empolgados com a apresentação da Orquestra NBC em turnê pelo Brasil, sob regência de Arturo Toscanini, procuraram o maestro José Siqueira para que tomasse a iniciativa. Com o apoio de personalidades empresariais e políticas, e contando com divulgação especial no jornal O Globo, surgiu como Sociedade Anônima em 1940. O concerto inaugural foi em 11 de julho de 1940, data escolhida em homenagem ao compositor Carlos Gomes. Como primeiro diretor artístico foi indicado o regente húngaro exilado no Brasil - Eugen Szenkar.",
+    "datas": [
+      "2022-03-30"
+    ],
+    "ingressos": "Ingressos disponíveis próximo à data do evento."
+  }
+  ,
+  {
+    "titulo": "Visitar o pao de açucar",
+    "id": 2,
+    "src": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/27/58/27.jpg",
+    "lugar": "O pão de açucar",
+    "lat": -22.94760,
+    "lng": -43.15492,
+    "descricao": "O Pão de Açúcar, ou simplesmente Pão de Açúcar, é um monólito de granito e inselberg localizado na cidade do Rio de Janeiro no Brasil. Culmina a 396 metros acima do nível do mar e é acessível por teleférico. O nome de Pain de Sucre teria surgido no século XVI por iniciativa dos portugueses. Deve o seu nome à sua forma muito particular que evoca os blocos de açúcar refinado e colocados em moldes de barro para serem transportados de barco na altura do comércio da cana-de-açúcar.",
+    "datas": [
+      "2022-03-30"
+    ],
+    "ingressos": "Ingressos disponíveis no local."
+  },
+  {
+    "titulo": "Rock in Rio",
+    "id": 3,
+    "src": "https://www.sindrio.com.br/wp-content/uploads/2019/10/rock-in-rio-i-hate-flash.jpg",
+    "lugar": "Cidade do Rock RJ",
+    "lat": -22.9789743,
+    "lng": -43.3952407,
+    "descricao": "O Rock in Rio é um festival de música idealizado pelo empresário brasileiro Roberto Medina pela primeira vez em 1985, sendo, desde sua criação, reconhecidamente, o maior festival musical do planeta. Foi originalmente organizado no Rio de Janeiro, de onde vem o nome. Tornou-se um evento de repercussão em nível mundial e, em 2004, teve a sua primeira edição fora do Brasil em Lisboa, Portugal. O festival é considerado o oitavo melhor do mundo pelo site especializado Festival Fling.[4] A última edição do festival aconteceu em 2019 dentro do Parque Olímpico do Rio de Janeiro.",
+    "datas": [
+      "2022-03-30",
+      "2022-04-02"
+    ],
+    "ingressos": "Ingressos disponíveis próximo à data do evento."
+  },
+  {
+    "titulo": "Uma das prais mais famosa do mundo",
+    "id": 4,
+    "src": "https://a0.muscache.com/im/pictures/miso/Hosting-3370191/original/788a1370-90e8-4905-8e74-7714d70d3a86.jpeg?im_w=960",
+    "lugar": "Praia de Copacabana",
+    "lat": -22.97185,
+    "lng": -43.18902,
+    "descricao": "Praia de Copacabana é uma praia na cidade do Rio de Janeiro, Brasil. Considerada uma das praias mais famosas do mundo, é apelidada em português de Princesinha do Mar, que significa a “princesa dos mares”. É um dos emblemas turísticos da cidade, como o Corcovado ou o Pão de Açúcar.No meio da Praia de Copacabana está o hotel de luxo mais antigo da América do Sul, o Copacabana Palace, construído segundo os planos de um arquiteto francês. No extremo sul da praia fica o Forte de Copacabana.",
+    "datas": [
+      "2022-02-30",
+      "2022-02-31"
+    ],
+    "ingressos": "Ingressos disponíveis próximo à data do evento."
+  },
+  {
+    "titulo": "Rio Open",
+    "id": 5,
+    "src": "https://conteudo.imguol.com.br/c/esporte/3e/2020/08/24/hard-rock-stadium-sede-do-miami-open-de-tenis-em-2019-1598303393328_v2_1920x1080.jpg",
+    "lugar": "Jockey Club RJ",
+    "lat": -22.9774092,
+    "lng": -43.2225784,
+    "descricao": "O ATP do Rio de Janeiro é um torneio de tênis sediado no Jockey Club Brasileiro, na cidade do Rio de Janeiro. As partidas são disputadas em quadras abertas de saibro. Sendo no total nove quadras do Jockey: quatro para treinos e cinco para as disputas. A quadra principal tem capacidade para 6.200 torcedores.",
+    "datas": [
+      "2022-03-30",
+      "2022-03-31"
+    ],
+    "ingressos": "Ingressos disponíveis próximo à data do evento."
+    
+  }
+]
