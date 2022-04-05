@@ -1,10 +1,6 @@
-# Sistema de Apoio ao Visitante em Grandes Eventos
+# Sistema de Apoio ao Visitante 
 
-## Developer
-```
-Gabriel Vianna
-Ana Paula Freitas
-```
+
 
 ## Project setup
 ```
