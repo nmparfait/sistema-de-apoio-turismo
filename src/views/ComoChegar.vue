@@ -21,14 +21,20 @@
               <h2>Ingressos</h2>
               <p>{{eventoAtual.ingressos}}</p>
             </div>
+            <div class="section-item">
+              <h2>Onde comer:</h2>
+              <p>Encontrar informações necessárias no local do evento.</p>
+            </div>
           </section>
-          <section>
+          
+          <section class="map">
             <div>
               <google-map />
             </div>
           </section>
         </div>
-        <h3>Onde comer:</h3>
+        
+
         <div class="main">
           <ul class="cards">
             <li
@@ -86,7 +92,12 @@ export default {
 }
 
 .section-item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.section-item p{
+  color: #0c0c0c;
+
 }
 .content {
   margin: 6%;
@@ -106,6 +117,7 @@ export default {
 .main {
   max-width: 1200px;
   margin: 0 auto;
+  
 }
 
 .card_image img {
@@ -134,8 +146,12 @@ export default {
   padding: 1rem;
 }
 
-p {
-  color: #828282;
+.map {
+  color: #ffffff;
+  border-radius: 20px;
+  border: 3px solid #000;
+  padding: 20px;
+  background-image: linear-gradient(to right top, #051937, #001c2b, #001b1a, #0c160f, #121211);
 }
 
 @media (min-width: 40rem) {
