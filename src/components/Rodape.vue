@@ -63,7 +63,7 @@ footer {
     font-size: 30px;
 }
 
-.footer-icons .social-item {
+.footer-icons a {
     margin-right: 10px;
     color: #e0e2db;
     transition: transform 2s;
@@ -72,6 +72,15 @@ footer {
 .footer-icons svg:hover {
     caption-side: #A24936;
     transform: translateY(-15px);
+}
+
+footer h3 {
+  color: #fba800;
+  font-size: 20px;
+}
+
+footer p {
+  font-size: 10px;
 }
 
 

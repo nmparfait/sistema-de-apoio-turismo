@@ -108,65 +108,14 @@ export default {
 };
 </script>
 <style>
-/* skills */
-#skills {
-    padding: 60px 0;
-    background-color: #fff;
-}
-
-.skills-container {
-    max-width: 95vw;
-    margin: 0 auto;
-}
-
-.skills-item {
-    text-align: center;
-    margin: 20px 0;
-}
-
-.skills-item .fa {
-    font-size: 60px;
-    color: #191716;
-    letter-spacing: 1px;
-}
-
-.skills-item h1 {
-    font-size: 30px;
-    letter-spacing: 2px;
-    margin: 30px 0;
-    color: rgba(251,168,0,255);
-    text-transform: uppercase;
-}
-
-.skill-item p {
-    width: 75%;
-    margin: 0 auto;
-    color: #5F5B6B;
-}
-
-/* responsive skills  */
-
-@media screen and (min-width:576px) {
-    .skills-container {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-column-gap: 1em;
-    }
-}
-
-
-@media screen and (min-width:992px) {
-    .skills-container {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-column-gap: 5px;
-    }
-}
-
 
 /* services */
   .title {
       margin: 40px 0;
+  }
+
+  #services h1 {
+    color: white;
   }
 
   .title-text {

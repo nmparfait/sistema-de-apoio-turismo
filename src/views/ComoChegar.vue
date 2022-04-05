@@ -8,7 +8,7 @@
       <h1>{{eventoAtual.titulo}}</h1>
       <div class="content">
         <div class="div-section">
-          <section>
+          <section class="info-chegar">
             <div class="section-item">
               <h2>Sobre</h2>
               <p>{{eventoAtual.descricao}}</p>
@@ -154,6 +154,21 @@ export default {
   background-image: linear-gradient(to right top, #051937, #001c2b, #001b1a, #0c160f, #121211);
 }
 
+.info-chegar {
+
+  border-radius: 20px;
+  background-image: linear-gradient(to right top, #051937, #001c2b, #001b1a, #0c160f, #121211);
+  padding: 20px;
+}
+
+.info-chegar h2 {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.info-chegar p {
+  color: #ffffff;
+}
 @media (min-width: 40rem) {
   .cards_item {
     width: 50%;

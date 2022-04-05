@@ -1,0 +1,2 @@
+background color :  #fba800;
+background-image: linear-gradient(to right top, #051937, #001c2b, #001b1a, #0c160f, #121211);
