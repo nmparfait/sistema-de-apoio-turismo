@@ -1,8 +1,6 @@
-# Sistema de Apoio ao Visitante em Grandes Eventos
+# Sistema de Apoio ao Visitante 
 
-## Developer
 
-```
 
 ## Project setup
 ```
