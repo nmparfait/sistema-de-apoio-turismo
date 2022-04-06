@@ -163,7 +163,7 @@ export default {
 }
 
 .info-chegar h2 {
-  color: #ffffff;
+  color: #0e0d0d;
   font-size: 20px;
 }
 

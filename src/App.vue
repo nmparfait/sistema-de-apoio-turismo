@@ -3,14 +3,13 @@
 <template>
   <div>
     <Cabecalho />
-
     <!-- servico -->
         <!--service section-->
     <section id="services">
         <!-- title -->
         <div class="title">
             <div class="title-text">
-                <h1>Serviços</h1>
+                <h1 id="servicos">Serviços</h1>
             </div>
             <div class="title-underline"></div>
         </div>
@@ -35,12 +34,12 @@
           <article class="service-item service-item-white">
             <div class="front-text">
               <i class="far fa-edit"></i>
-              <h1>Restaurações</h1>
+              <h1>Atividades</h1>
             </div>
 
             <div class="back-text">
-              <h1>Restaurações</h1>
-              <p>Encontrar ambientes familiares assim como bares e restaurantes conceituados. no Rio de Janeiro </p>       
+              <h1>Atividades</h1>
+              <p>Encontrar ambientes familiares para sua atividade favorita, como bares, restaurantes, salas de ginasticas bem conceituados no Rio de Janeiro </p>       
             </div>
           </article>
           <!-- end of article-->
@@ -82,7 +81,7 @@
     <!-- title -->
     <div class="title">
       <div class="title-text">
-        <h1>SUGESTÕES</h1>
+        <h1 id="sugestoes">SUGESTÕES</h1>
       </div>
       <div class="title-underline"></div>
     </div>
@@ -111,7 +110,7 @@ export default {
 
 /* services */
   .title {
-      margin: 40px 0;
+      margin: 20px 0;
   }
 
   #services h1 {
@@ -141,7 +140,6 @@ export default {
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
-      
       padding: 20px 0 80px 0;
   }
 
