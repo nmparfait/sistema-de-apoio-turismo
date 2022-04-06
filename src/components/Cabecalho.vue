@@ -20,7 +20,7 @@
     <!--nav-->
     <nav>
       <ul>
-        <li><a href="#" class="logo">S.a.Turismo<i class="fa fa-arrow-down"></i></a></li>
+        <li><a href="#" class="logo-img"><img src="../assets/logosistema-min.png" alt="logo"></a></li>
         <li><a href="#">Home</a></li>
         <li><a href="#servicos">Serviços</a></li>
         <li><a href="#sugestoes">Sugestões</a></li>
@@ -80,6 +80,10 @@ nav ul li a:hover {
     font-style: italic;
     border-radius: 30px;
     margin-top: 10px;
+}
+
+nav ul .logo-img {
+  border-radius: 20px;
 }
 
 .logo:hover {
