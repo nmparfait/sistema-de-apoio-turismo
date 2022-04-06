@@ -5,7 +5,7 @@
         class="image"
         v-bind:style="{ backgroundImage: 'url(' + eventoAtual.src + ')', backgroundSize: 'cover', backgroundPosition: 'center center' }"
       ></div>
-      <h1>{{eventoAtual.titulo}}</h1>
+      <h1 class="underline">{{eventoAtual.titulo}}</h1>
       <div class="content">
         <div class="div-section">
           <section class="info-chegar">
@@ -81,9 +81,10 @@ export default {
 </script>
 
 <style scoped>
+
 .principal h1 {
   margin: 0 6% 20px;
-  text-align: center;
+  text-align: center !important;
 }
 
 .principal h1,
@@ -157,7 +158,7 @@ export default {
 .info-chegar {
 
   border-radius: 20px;
-  background-image: linear-gradient(to right top, #051937, #001c2b, #001b1a, #0c160f, #121211);
+  background-image: linear-gradient(to right top, #fba800, #ae840c, #6e5e16, #3a3817, #121211);
   padding: 20px;
 }
 

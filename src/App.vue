@@ -172,6 +172,10 @@ export default {
       transition: transform 2s;
   }
 
+  .front-text p {
+    color: #fba800!important;
+  }
+
   .back-text {
       position: absolute;
       bottom: -15em;
@@ -188,7 +192,7 @@ export default {
   }
 
   .back-text p {
-      color: black;
+      color: white;
   }
 
   .service-item-white:hover {
@@ -226,5 +230,4 @@ export default {
           order: 3
       }
   }
-
 </style>
